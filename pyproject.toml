@@ -1,0 +1,16 @@
+[project]
+name = "ai-engineering"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "fastapi>=0.135.2",
+    "fastapi-mcp>=0.4.0",
+    "fastmcp>=3.1.1",
+    "feedparser>=6.0.12",
+    "sqlalchemy>=2.0.48",
+    "stytch>=14.3.0",
+    "uvicorn>=0.42.0",
+]
